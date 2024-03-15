@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is Pankaj and I'm a, from Chhatrapati Sambhajinagar</h2>
 
 ###
-
+<!--
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_co>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=>
@@ -10,7 +10,7 @@
 ###
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
+-->
 ###
 
 <div align="left">
